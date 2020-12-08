@@ -1,0 +1,2 @@
+model_checkpoint_path: "policy_supervised_concept_athletehomestadium"
+all_model_checkpoint_paths: "policy_supervised_concept_athletehomestadium"
