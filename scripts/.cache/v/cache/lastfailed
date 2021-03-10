@@ -1,3 +1,4 @@
 {
-  "sl_policy.py::test": true
+  "sl_policy.py::test": true,
+  "sl_policy_ad.py::test": true
 }
